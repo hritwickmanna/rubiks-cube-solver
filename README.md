@@ -25,7 +25,7 @@ AlgoCubeSolver is a C++ project that efficiently models and solves a **3x3 Rubik
 1️⃣ **Clone the Repository**:
 
 ```bash
-git clone https://github.com/Tarunbhati100/AlgoCubeSolver.git
+git clone https://github.com/hritwickmanna/rubiks-cube-solver.git
 cd AlgoCubeSolver
 ```
 
