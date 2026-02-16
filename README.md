@@ -2,6 +2,10 @@
 
 Rubiks Cube Solver is a C++ project that efficiently models and solves a **3x3 Rubik’s Cube** using multiple search algorithms, achieving fast and optimal solutions. The solver effectively reduces solve times, achieving **sub-3-second** solutions for simpler scrambles and **under 10 seconds** for complex ones using **Korf’s IDA*** algorithm.
 
+<p align="center">
+  <a href="https://algocubesolver.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-Online-green?style=for-the-badge&logo=vercel" alt="Live Demo"/></a>
+</p>
+
 ---
 ## 🌟 Features
 
